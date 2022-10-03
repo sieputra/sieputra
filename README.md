@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![@sieputra's Holopin board](https://holopin.io/api/user/board?user=sieputra)](https://holopin.io/@sieputra)
+
 👯 I'm a Software Engineer
 
 🔭 I use PHP, Python, Go Lang for Backend & React JS for frontend
@@ -25,4 +27,3 @@ Here are some ideas to get you started:
 
 ![Sieputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieputra&count_private=true&show_icons=true)
 
-[![@sieputra's Holopin board](https://holopin.io/api/user/board?user=sieputra)](https://holopin.io/@sieputra)
